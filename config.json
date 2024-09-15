@@ -1,5 +1,3 @@
 {
-    "leaderboardKey": "leaderboardKey",
-    "methodName": "SetLeaderboardValue",
-    "valueToSet": "Skid"
+  "Keyless": "True"
 }
